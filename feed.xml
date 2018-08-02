@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://blogtest7.curation.space/2018/08/01/test-note.html"/>
     <id>https://blogtest7.curation.space/2018/08/01/test-note.html</id>
     <published>2018-08-01T14:24:18+00:00</published>
-    <updated>2018-08-01T14:24:18+00:00</updated>
+    <updated>2018-08-02T11:55:36+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -25,7 +25,13 @@
     &lt;p&gt;&lt;div&gt;
         This is a
        &lt;strong&gt;small&lt;/strong&gt; test if it&amp;rsquo;s
-       &lt;em&gt;&lt;strong&gt;&lt;span style="color: rgb(255, 0, 0);"&gt;working&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;.
+       &lt;em&gt;&lt;strong&gt;&lt;span style="color: #ff0000;"&gt;working&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Not sure if it worked out.
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
